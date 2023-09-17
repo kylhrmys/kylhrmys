@@ -1,12 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there!</h1>
-
-I'm Kayl Jeremiah Teves; a graduate from **STI College Balagtas**; an **Multimedia Arts** with a **Graphic Design** major Also I finished the Zuitt Coding Bootcamp (MERN Stack) as the main course. I am currently based in the Philippines and I specialize in developing web applications..
-
-Here are some of my info:
 ```javascript
 const me = {
   name: "Kayl Jeremiah Daproza Teves",
-  location: "Marilao, Bulacan",
   hobbies: [ "Video Games", "Animes", "Reading" ],
   languages: [ "en", "tl"],
   forte: [ "React", "ExpressJS/NodeJS" ]
