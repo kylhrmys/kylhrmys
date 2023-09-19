@@ -3,18 +3,16 @@ const me = {
   name: "Kayl Jeremiah",
   hobbies: [ "Video Games", "Animes", "Reading" ],
   languages: [ "en", "tl"],
-  forte: [ "React", "ExpressJS/NodeJS" ]
+  forte: [ "React", "ExpressJS/NodeJS", "UI/UX" ]
 }
 ```
-
-### Stats
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=kylhrmys&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+<p align="start">
+  
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kylhrmys&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=kylhrmys&theme=tokyonight&hide_border=true&background=FFFFFF00">
+ 
 </p>
 
-### Experiences
+### Design and Develop Apps
 <p>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
   <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
